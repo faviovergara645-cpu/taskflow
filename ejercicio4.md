@@ -1,13 +1,13 @@
 ## Capturas de pantalla
 
-### Pantalla principal
-![Pantalla principal](main.png)
+### 1. Pantalla principal (Inicio)
+![Pantalla principal](inicio.png)
 
-### Pantalla de registro o inicio de sesión
-![Inicio de sesión](inicio.png)
+### 2. Pantalla de registro o inicio de sesión
+![Pantalla de registro o inicio de sesión](main.png)
 
-### Pantalla principal de la funcionalidad
-![Funcionalidad principal](funcionalidad.png)
+### 3. Pantalla principal de la funcionalidad (Gestión de tareas)
+![Gestión de tareas](funcionalidad.png)
 
-### Otra pantalla relevante
-![Otra pantalla](otrapantalla.png)
+### 4. Otra pantalla relevante
+![Otra pantalla relevante](otrapantalla.png)
